@@ -2,8 +2,6 @@ package colorize
 
 import (
 	"runtime"
-
-	"golang.org/x/sys/windows/registry"
 )
 
 var isTrashyWindows bool
